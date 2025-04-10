@@ -1,5 +1,5 @@
 
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Nathi
 
 Welcome to my GitHub! I'm a passionate developer focused on building modern, clean, and functional applications. Whether it's websites, web apps, or automation tools — I love turning ideas into reality through code.
 
@@ -7,9 +7,9 @@ Welcome to my GitHub! I'm a passionate developer focused on building modern, cle
 
 ## 🧠 About Me
 
-- 💻 I'm a [your role, e.g., Full-Stack Web Developer / Software Engineer / CS Graduate].
-- 🎓 Currently pursuing/completed [Your Degree] at [Your University or College].
-- 🌍 Based in [Your Country/City].
+- 💻 I'm a Fullstack Developer.
+- 🎓 Currently completed Computer Science at Wachemo university.
+- 🌍 Based in Hossana.
 - ⚡ Interested in Web Development, AI, and Open Source contributions.
 - 🧩 Love solving real-world problems with code.
 
